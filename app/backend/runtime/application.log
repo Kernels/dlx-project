@@ -1,0 +1,88 @@
+2012/09/26 09:00:42 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/home/Bagration/public_html/dlx_project/framework/YiiBase.php:423)
+Stack trace:
+#0 /home/Bagration/public_html/dlx_project/app/backend/controllers/IndexController.php(4): spl_autoload_call()
+#1 /home/Bagration/public_html/dlx_project/framework/web/CWebApplication.php(355): require()
+#2 /home/Bagration/public_html/dlx_project/framework/web/CWebApplication.php(277): CWebApplication->createController()
+#3 /home/Bagration/public_html/dlx_project/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#4 /home/Bagration/public_html/dlx_project/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#5 /home/Bagration/public_html/dlx_project/www/backend.php(25): CWebApplication->run()
+REQUEST_URI=/admin
+in /home/Bagration/public_html/dlx_project/app/backend/controllers/IndexController.php (4)
+in /home/Bagration/public_html/dlx_project/www/backend.php (25)
+2012/09/26 09:14:07 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/home/Bagration/public_html/dlx_project/framework/YiiBase.php:423)
+Stack trace:
+#0 /home/Bagration/public_html/dlx_project/app/backend/controllers/IndexController.php(4): spl_autoload_call()
+#1 /home/Bagration/public_html/dlx_project/framework/web/CWebApplication.php(355): require()
+#2 /home/Bagration/public_html/dlx_project/framework/web/CWebApplication.php(277): CWebApplication->createController()
+#3 /home/Bagration/public_html/dlx_project/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#4 /home/Bagration/public_html/dlx_project/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#5 /home/Bagration/public_html/dlx_project/www/backend.php(25): CWebApplication->run()
+REQUEST_URI=/admin
+in /home/Bagration/public_html/dlx_project/app/backend/controllers/IndexController.php (4)
+in /home/Bagration/public_html/dlx_project/www/backend.php (25)
+2012/09/26 09:16:02 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/home/Bagration/public_html/dlx_project/framework/YiiBase.php:423)
+Stack trace:
+#0 /home/Bagration/public_html/dlx_project/app/backend/controllers/IndexController.php(4): spl_autoload_call()
+#1 /home/Bagration/public_html/dlx_project/framework/web/CWebApplication.php(355): require()
+#2 /home/Bagration/public_html/dlx_project/framework/web/CWebApplication.php(277): CWebApplication->createController()
+#3 /home/Bagration/public_html/dlx_project/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#4 /home/Bagration/public_html/dlx_project/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#5 /home/Bagration/public_html/dlx_project/www/backend.php(25): CWebApplication->run()
+REQUEST_URI=/admin
+in /home/Bagration/public_html/dlx_project/app/backend/controllers/IndexController.php (4)
+in /home/Bagration/public_html/dlx_project/www/backend.php (25)
+2012/09/26 09:16:04 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/home/Bagration/public_html/dlx_project/framework/YiiBase.php:423)
+Stack trace:
+#0 /home/Bagration/public_html/dlx_project/app/backend/controllers/IndexController.php(4): spl_autoload_call()
+#1 /home/Bagration/public_html/dlx_project/framework/web/CWebApplication.php(355): require()
+#2 /home/Bagration/public_html/dlx_project/framework/web/CWebApplication.php(277): CWebApplication->createController()
+#3 /home/Bagration/public_html/dlx_project/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#4 /home/Bagration/public_html/dlx_project/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#5 /home/Bagration/public_html/dlx_project/www/backend.php(25): CWebApplication->run()
+REQUEST_URI=/admin
+in /home/Bagration/public_html/dlx_project/app/backend/controllers/IndexController.php (4)
+in /home/Bagration/public_html/dlx_project/www/backend.php (25)
+2012/09/26 09:16:04 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/home/Bagration/public_html/dlx_project/framework/YiiBase.php:423)
+Stack trace:
+#0 /home/Bagration/public_html/dlx_project/app/backend/controllers/IndexController.php(4): spl_autoload_call()
+#1 /home/Bagration/public_html/dlx_project/framework/web/CWebApplication.php(355): require()
+#2 /home/Bagration/public_html/dlx_project/framework/web/CWebApplication.php(277): CWebApplication->createController()
+#3 /home/Bagration/public_html/dlx_project/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#4 /home/Bagration/public_html/dlx_project/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#5 /home/Bagration/public_html/dlx_project/www/backend.php(25): CWebApplication->run()
+REQUEST_URI=/admin
+in /home/Bagration/public_html/dlx_project/app/backend/controllers/IndexController.php (4)
+in /home/Bagration/public_html/dlx_project/www/backend.php (25)
+2012/09/26 09:16:05 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/home/Bagration/public_html/dlx_project/framework/YiiBase.php:423)
+Stack trace:
+#0 /home/Bagration/public_html/dlx_project/app/backend/controllers/IndexController.php(4): spl_autoload_call()
+#1 /home/Bagration/public_html/dlx_project/framework/web/CWebApplication.php(355): require()
+#2 /home/Bagration/public_html/dlx_project/framework/web/CWebApplication.php(277): CWebApplication->createController()
+#3 /home/Bagration/public_html/dlx_project/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#4 /home/Bagration/public_html/dlx_project/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#5 /home/Bagration/public_html/dlx_project/www/backend.php(25): CWebApplication->run()
+REQUEST_URI=/admin
+in /home/Bagration/public_html/dlx_project/app/backend/controllers/IndexController.php (4)
+in /home/Bagration/public_html/dlx_project/www/backend.php (25)
+2012/09/26 09:16:05 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/home/Bagration/public_html/dlx_project/framework/YiiBase.php:423)
+Stack trace:
+#0 /home/Bagration/public_html/dlx_project/app/backend/controllers/IndexController.php(4): spl_autoload_call()
+#1 /home/Bagration/public_html/dlx_project/framework/web/CWebApplication.php(355): require()
+#2 /home/Bagration/public_html/dlx_project/framework/web/CWebApplication.php(277): CWebApplication->createController()
+#3 /home/Bagration/public_html/dlx_project/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#4 /home/Bagration/public_html/dlx_project/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#5 /home/Bagration/public_html/dlx_project/www/backend.php(25): CWebApplication->run()
+REQUEST_URI=/admin
+in /home/Bagration/public_html/dlx_project/app/backend/controllers/IndexController.php (4)
+in /home/Bagration/public_html/dlx_project/www/backend.php (25)
+2012/09/26 09:16:05 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/home/Bagration/public_html/dlx_project/framework/YiiBase.php:423)
+Stack trace:
+#0 /home/Bagration/public_html/dlx_project/app/backend/controllers/IndexController.php(4): spl_autoload_call()
+#1 /home/Bagration/public_html/dlx_project/framework/web/CWebApplication.php(355): require()
+#2 /home/Bagration/public_html/dlx_project/framework/web/CWebApplication.php(277): CWebApplication->createController()
+#3 /home/Bagration/public_html/dlx_project/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#4 /home/Bagration/public_html/dlx_project/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#5 /home/Bagration/public_html/dlx_project/www/backend.php(25): CWebApplication->run()
+REQUEST_URI=/admin
+in /home/Bagration/public_html/dlx_project/app/backend/controllers/IndexController.php (4)
+in /home/Bagration/public_html/dlx_project/www/backend.php (25)
